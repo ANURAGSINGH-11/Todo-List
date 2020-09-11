@@ -1,0 +1,27 @@
+#section{
+    width:150px;
+    padding:10px;
+    background-color: aqua;
+    margin: auto;
+    border-radius:10px;
+    margin-top:10px;
+}
+img{
+    width:25px;
+    cursor: pointer;
+}
+#form button{
+    width:100px;
+    height: 30px;
+    color: #fff;
+    background-color: black;
+    border-radius: 5px;
+    border:none;
+    outline:none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#form input{
+    width:200px;
+    height: 20px;
+}
